@@ -1,0 +1,16 @@
+Trend Observations
+
+1. Charter schools in this data set out perform (higher results) District schools on average across all measured categories:
+o Average Math Score
+o Average Reading Score
+o % Passing Math
+o % Passing Reading
+o % Overall Passing
+
+2. Large schools (2000-5000) perform worse (lower results) than medium and small schools across all categories:
+o Average Math Score
+o Average Reading Score
+o % Passing Math
+o % Passing Reading
+o % Overall Passing
+
